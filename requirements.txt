@@ -1,1 +1,6 @@
 streamlit
+torch
+torchvision
+Pillow
+numpy
+jsonschema
