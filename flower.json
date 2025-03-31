@@ -1,0 +1,818 @@
+[
+  {
+    "id": 0,
+    "name": "pink primrose",
+    "scientific_name": "Oenothera speciosa",
+    "genus": "Oenothera",
+    "fun_fact": "Blooms open at dusk and wilt by midday, attracting moths.",
+    "where_found": "Southwestern United States, Mexico"
+  },
+  {
+    "id": 1,
+    "name": "hard-leaved pocket orchid",
+    "scientific_name": "Paphiopedilum micranthum",
+    "genus": "Paphiopedilum",
+    "fun_fact": "Its 'pocket' traps insects to ensure pollination.",
+    "where_found": "Limestone cliffs of China and Vietnam"
+  },
+  {
+    "id": 2,
+    "name": "canterbury bells",
+    "scientific_name": "Campanula medium",
+    "genus": "Campanula",
+    "fun_fact": "Named after medieval English gardens.",
+    "where_found": "Southern Europe, cultivated worldwide"
+  },
+  {
+    "id": 3,
+    "name": "sweet pea",
+    "scientific_name": "Lathyrus odoratus",
+    "genus": "Lathyrus",
+    "fun_fact": "Fragrant but toxic if ingested.",
+    "where_found": "Sicily, Mediterranean regions"
+  },
+  {
+    "id": 4,
+    "name": "english marigold",
+    "scientific_name": "Calendula officinalis",
+    "genus": "Calendula",
+    "fun_fact": "Petals used in healing salves.",
+    "where_found": "Southern Europe, North Africa"
+  },
+  {
+    "id": 5,
+    "name": "tiger lily",
+    "scientific_name": "Lilium lancifolium",
+    "genus": "Lilium",
+    "fun_fact": "Pollen is toxic to cats.",
+    "where_found": "East Asia (China, Korea, Japan)"
+  },
+  {
+    "id": 6,
+    "name": "moon orchid",
+    "scientific_name": "Phalaenopsis amabilis",
+    "genus": "Phalaenopsis",
+    "fun_fact": "Indonesia’s national flower.",
+    "where_found": "Tropical rainforests of Southeast Asia"
+  },
+  {
+    "id": 7,
+    "name": "bird of paradise",
+    "scientific_name": "Strelitzia reginae",
+    "genus": "Strelitzia",
+    "fun_fact": "Resembles a tropical bird in flight.",
+    "where_found": "South Africa"
+  },
+  {
+    "id": 8,
+    "name": "monkshood",
+    "scientific_name": "Aconitum napellus",
+    "genus": "Aconitum",
+    "fun_fact": "One of the deadliest plants.",
+    "where_found": "Mountainous regions of Europe and Asia"
+  },
+  {
+    "id": 9,
+    "name": "globe thistle",
+    "scientific_name": "Echinops ritro",
+    "genus": "Echinops",
+    "fun_fact": "Steel-blue flowers deter pests.",
+    "where_found": "Southern Europe, Central Asia"
+  },
+  {
+    "id": 10,
+    "name": "snapdragon",
+    "scientific_name": "Antirrhinum majus",
+    "genus": "Antirrhinum",
+    "fun_fact": "Flowers 'snap' open like a dragon’s mouth.",
+    "where_found": "Mediterranean region"
+  },
+  {
+    "id": 11,
+    "name": "colt's foot",
+    "scientific_name": "Tussilago farfara",
+    "genus": "Tussilago",
+    "fun_fact": "Leaves used historically for cough syrup.",
+    "where_found": "Europe, Asia, North Africa"
+  },
+  {
+    "id": 12,
+    "name": "king protea",
+    "scientific_name": "Protea cynaroides",
+    "genus": "Protea",
+    "fun_fact": "South Africa’s national flower.",
+    "where_found": "South Africa"
+  },
+  {
+    "id": 13,
+    "name": "spear thistle",
+    "scientific_name": "Cirsium vulgare",
+    "genus": "Cirsium",
+    "fun_fact": "Scotland’s national emblem.",
+    "where_found": "Europe, Asia, North Africa"
+  },
+  {
+    "id": 14,
+    "name": "yellow iris",
+    "scientific_name": "Iris pseudacorus",
+    "genus": "Iris",
+    "fun_fact": "Linked to the Greek goddess Iris.",
+    "where_found": "Europe, North Africa, wetlands"
+  },
+  {
+    "id": 15,
+    "name": "globe-flower",
+    "scientific_name": "Trollius europaeus",
+    "genus": "Trollius",
+    "fun_fact": "Traps rainwater in its blooms.",
+    "where_found": "Alpine meadows of Europe"
+  },
+  {
+    "id": 16,
+    "name": "purple coneflower",
+    "scientific_name": "Echinacea purpurea",
+    "genus": "Echinacea",
+    "fun_fact": "Used in herbal immunity remedies.",
+    "where_found": "Eastern and Central North America"
+  },
+  {
+    "id": 17,
+    "name": "peruvian lily",
+    "scientific_name": "Alstroemeria aurea",
+    "genus": "Alstroemeria",
+    "fun_fact": "Tricks pollinators with colorful patterns.",
+    "where_found": "South America (Andes Mountains)"
+  },
+  {
+    "id": 18,
+    "name": "balloon flower",
+    "scientific_name": "Platycodon grandiflorus",
+    "genus": "Platycodon",
+    "fun_fact": "Buds inflate like balloons before blooming.",
+    "where_found": "East Asia (Korea, China, Japan)"
+  },
+  {
+    "id": 19,
+    "name": "giant white arum lily",
+    "scientific_name": "Zantedeschia aethiopica",
+    "genus": "Zantedeschia",
+    "fun_fact": "Not a true lily—its flower is a spathe.",
+    "where_found": "Southern Africa"
+  },
+  {
+    "id": 20,
+    "name": "fire lily",
+    "scientific_name": "Lilium bulbiferum",
+    "genus": "Lilium",
+    "fun_fact": "Grows after forest fires.",
+    "where_found": "Europe, Caucasus Mountains"
+  },
+  {
+    "id": 21,
+    "name": "pincushion flower",
+    "scientific_name": "Scabiosa atropurpurea",
+    "genus": "Scabiosa",
+    "fun_fact": "Named for its cushion-like center.",
+    "where_found": "Southern Europe, Mediterranean"
+  },
+  {
+    "id": 22,
+    "name": "fritillary",
+    "scientific_name": "Fritillaria meleagris",
+    "genus": "Fritillaria",
+    "fun_fact": "Checkerboard pattern for camouflage.",
+    "where_found": "Europe, temperate grasslands"
+  },
+  {
+    "id": 23,
+    "name": "red ginger",
+    "scientific_name": "Alpinia purpurata",
+    "genus": "Alpinia",
+    "fun_fact": "Red bracts are mistaken for flowers.",
+    "where_found": "Pacific Islands, Southeast Asia"
+  },
+  {
+    "id": 24,
+    "name": "grape hyacinth",
+    "scientific_name": "Muscari armeniacum",
+    "genus": "Muscari",
+    "fun_fact": "Clusters resemble upside-down grapes.",
+    "where_found": "Mediterranean, Caucasus"
+  },
+  {
+    "id": 25,
+    "name": "corn poppy",
+    "scientific_name": "Papaver rhoeas",
+    "genus": "Papaver",
+    "fun_fact": "Symbol of fallen soldiers in WWI.",
+    "where_found": "Europe, Asia, North Africa"
+  },
+  {
+    "id": 26,
+    "name": "prince of wales feathers",
+    "scientific_name": "Amaranthus hypochondriacus",
+    "genus": "Amaranthus",
+    "fun_fact": "Retains color when dried.",
+    "where_found": "Central and South America"
+  },
+  {
+    "id": 27,
+    "name": "stemless gentian",
+    "scientific_name": "Gentiana acaulis",
+    "genus": "Gentiana",
+    "fun_fact": "Thrives above 6,000 feet elevation.",
+    "where_found": "Alpine regions of Europe"
+  },
+  {
+    "id": 28,
+    "name": "artichoke",
+    "scientific_name": "Cynara cardunculus var. scolymus",
+    "genus": "Cynara",
+    "fun_fact": "Edible unopened flower bud.",
+    "where_found": "Mediterranean region"
+  },
+  {
+    "id": 29,
+    "name": "sweet william",
+    "scientific_name": "Dianthus barbatus",
+    "genus": "Dianthus",
+    "fun_fact": "Named after William Shakespeare.",
+    "where_found": "Southern Europe, Asia"
+  },
+  {
+    "id": 30,
+    "name": "carnation",
+    "scientific_name": "Dianthus caryophyllus",
+    "genus": "Dianthus",
+    "fun_fact": "Associated with the Virgin Mary’s tears.",
+    "where_found": "Mediterranean region"
+  },
+  {
+    "id": 31,
+    "name": "garden phlox",
+    "scientific_name": "Phlox paniculata",
+    "genus": "Phlox",
+    "fun_fact": "Attracts butterflies and hummingbirds.",
+    "where_found": "Eastern United States"
+  },
+  {
+    "id": 32,
+    "name": "love in the mist",
+    "scientific_name": "Nigella damascena",
+    "genus": "Nigella",
+    "fun_fact": "Delicate blooms surrounded by lacy bracts.",
+    "where_found": "Mediterranean, Southwest Asia"
+  },
+  {
+    "id": 33,
+    "name": "mexican aster",
+    "scientific_name": "Cosmos bipinnatus",
+    "genus": "Cosmos",
+    "fun_fact": "Named after the Greek word for 'harmony.'",
+    "where_found": "Mexico, Central America"
+  },
+  {
+    "id": 34,
+    "name": "alpine sea holly",
+    "scientific_name": "Eryngium alpinum",
+    "genus": "Eryngium",
+    "fun_fact": "Steel-blue flowers with spiky bracts.",
+    "where_found": "Alpine regions of Europe"
+  },
+  {
+    "id": 35,
+    "name": "ruby-lipped cattleya",
+    "scientific_name": "Cattleya labiata",
+    "genus": "Cattleya",
+    "fun_fact": "Known as the 'Queen of Orchids.'",
+    "where_found": "Brazilian rainforests"
+  },
+  {
+    "id": 36,
+    "name": "cape flower",
+    "scientific_name": "Gerbera jamesonii",
+    "genus": "Gerbera",
+    "fun_fact": "Symbolizes innocence and purity.",
+    "where_found": "South Africa"
+  },
+  {
+    "id": 37,
+    "name": "great masterwort",
+    "scientific_name": "Astrantia major",
+    "genus": "Astrantia",
+    "fun_fact": "Star-shaped flowers with papery bracts.",
+    "where_found": "Central and Eastern Europe"
+  },
+  {
+    "id": 38,
+    "name": "siam tulip",
+    "scientific_name": "Curcuma alismatifolia",
+    "genus": "Curcuma",
+    "fun_fact": "Not a true tulip—related to ginger.",
+    "where_found": "Thailand, Cambodia"
+  },
+  {
+    "id": 39,
+    "name": "lenten rose",
+    "scientific_name": "Helleborus orientalis",
+    "genus": "Helleborus",
+    "fun_fact": "Blooms in late winter/early spring.",
+    "where_found": "Greece, Turkey"
+  },
+  {
+    "id": 40,
+    "name": "barbeton daisy",
+    "scientific_name": "Gerbera viridifolia",
+    "genus": "Gerbera",
+    "fun_fact": "Named after the Barbeton region.",
+    "where_found": "South Africa"
+  },
+  {
+    "id": 41,
+    "name": "daffodil",
+    "scientific_name": "Narcissus pseudonarcissus",
+    "genus": "Narcissus",
+    "fun_fact": "Symbolizes rebirth and new beginnings.",
+    "where_found": "Western Europe, Mediterranean"
+  },
+  {
+    "id": 42,
+    "name": "sword lily",
+    "scientific_name": "Gladiolus spp.",
+    "genus": "Gladiolus",
+    "fun_fact": "Named after the Latin word for 'sword.'",
+    "where_found": "Africa, Mediterranean, Asia"
+  },
+  {
+    "id": 43,
+    "name": "poinsettia",
+    "scientific_name": "Euphorbia pulcherrima",
+    "genus": "Euphorbia",
+    "fun_fact": "Red 'flowers' are actually modified leaves.",
+    "where_found": "Mexico, Central America"
+  },
+  {
+    "id": 44,
+    "name": "bolero deep blue",
+    "scientific_name": "Centurea cyanus",
+    "genus": "Centaurea",
+    "fun_fact": "Also called 'cornflower.'",
+    "where_found": "Europe, temperate regions"
+  },
+  {
+    "id": 45,
+    "name": "wallflower",
+    "scientific_name": "Erysimum cheiri",
+    "genus": "Erysimum",
+    "fun_fact": "Thrives in rocky, poor soil.",
+    "where_found": "Southern Europe, Mediterranean"
+  },
+  {
+    "id": 46,
+    "name": "marigold",
+    "scientific_name": "Tagetes erecta",
+    "genus": "Tagetes",
+    "fun_fact": "Used in Day of the Dead celebrations.",
+    "where_found": "Mexico, Central America"
+  },
+  {
+    "id": 47,
+    "name": "buttercup",
+    "scientific_name": "Ranunculus spp.",
+    "genus": "Ranunculus",
+    "fun_fact": "Petals reflect light to attract pollinators.",
+    "where_found": "Worldwide, temperate zones"
+  },
+  {
+    "id": 48,
+    "name": "oxeye daisy",
+    "scientific_name": "Leucanthemum vulgare",
+    "genus": "Leucanthemum",
+    "fun_fact": "Considered invasive in North America.",
+    "where_found": "Europe, Asia, naturalized globally"
+  },
+  {
+    "id": 49,
+    "name": "common dandelion",
+    "scientific_name": "Taraxacum officinale",
+    "genus": "Taraxacum",
+    "fun_fact": "Entire plant is edible.",
+    "where_found": "Worldwide, temperate regions"
+  },
+  {
+    "id": 50,
+    "name": "petunia",
+    "scientific_name": "Petunia × atkinsiana",
+    "genus": "Petunia",
+    "fun_fact": "Named after the Tupi-Guarani word for 'flower.'",
+    "where_found": "South America"
+  },
+  {
+    "id": 51,
+    "name": "wild pansy",
+    "scientific_name": "Viola tricolor",
+    "genus": "Viola",
+    "fun_fact": "Also called 'heartsease' in folklore.",
+    "where_found": "Europe, Asia"
+  },
+  {
+    "id": 52,
+    "name": "primula",
+    "scientific_name": "Primula vulgaris",
+    "genus": "Primula",
+    "fun_fact": "One of the first flowers to bloom in spring.",
+    "where_found": "Western and Southern Europe"
+  },
+  {
+    "id": 53,
+    "name": "sunflower",
+    "scientific_name": "Helianthus annuus",
+    "genus": "Helianthus",
+    "fun_fact": "Flower heads track the sun (heliotropism).",
+    "where_found": "North America, cultivated globally"
+  },
+  {
+    "id": 54,
+    "name": "pelargonium",
+    "scientific_name": "Pelargonium × hortorum",
+    "genus": "Pelargonium",
+    "fun_fact": "Often mislabeled as 'geraniums.'",
+    "where_found": "South Africa"
+  },
+  {
+    "id": 55,
+    "name": "bishop of llandaff",
+    "scientific_name": "Dahlia × hortensis",
+    "genus": "Dahlia",
+    "fun_fact":"The Dahlia 'Bishop of Llandaff' is a popular cultivar known for its dark, almost black foliage and vibrant scarlet flowers, named in honor of Bishop     Joshua Pritchard Hughes of Llandaff, and it won the RHS Award of Garden Merit in 1928",
+     "where_found":"Mexico and Central America"
+  },
+  {
+    "id": 56,
+    "name": "gaura",
+    "scientific_name": "Gaura lindheimeri",
+    "genus": "Gaura",
+    "fun_fact": "Its flowers resemble fluttering butterflies.",
+    "where_found": "North America (Texas, Louisiana)"
+  },
+  {
+    "id": 57,
+    "name": "geranium",
+    "scientific_name": "Pelargonium spp.",
+    "genus": "Pelargonium",
+    "fun_fact": "Leaves release a citrusy scent when crushed.",
+    "where_found": "Southern Africa, cultivated worldwide"
+  },
+  {
+    "id": 58,
+    "name": "orange dahlia",
+    "scientific_name": "Dahlia pinnata",
+    "genus": "Dahlia",
+    "fun_fact": "National flower of Mexico.",
+    "where_found": "Mexico, Central America"
+  },
+  {
+    "id": 59,
+    "name": "pink-yellow dahlia?",
+    "scientific_name": "Dahlia × hybrida",
+    "genus": "Dahlia",
+    "fun_fact": "Hybrid cultivars come in nearly every color except blue.",
+    "where_found": "Cultivated worldwide"
+  },
+  {
+    "id": 60,
+    "name": "cautleya spicata",
+    "scientific_name": "Cautleya spicata",
+    "genus": "Cautleya",
+    "fun_fact": "Grows in the Himalayan foothills.",
+    "where_found": "Eastern Himalayas, Nepal"
+  },
+  {
+    "id": 61,
+    "name": "japanese anemone",
+    "scientific_name": "Anemone hupehensis",
+    "genus": "Anemone",
+    "fun_fact": "Blooms in late summer when most flowers fade.",
+    "where_found": "Japan, China"
+  },
+  {
+    "id": 62,
+    "name": "black-eyed susan",
+    "scientific_name": "Rudbeckia hirta",
+    "genus": "Rudbeckia",
+    "fun_fact": "State flower of Maryland, USA.",
+    "where_found": "Eastern and Central North America"
+  },
+  {
+    "id": 63,
+    "name": "silverbush",
+    "scientific_name": "Convolvulus cneorum",
+    "genus": "Convolvulus",
+    "fun_fact": "Silvery foliage reflects sunlight in dry climates.",
+    "where_found": "Mediterranean region"
+  },
+  {
+    "id": 64,
+    "name": "californian poppy",
+    "scientific_name": "Eschscholzia californica",
+    "genus": "Eschscholzia",
+    "fun_fact": "California’s state flower; closes at night.",
+    "where_found": "Western North America"
+  },
+  {
+    "id": 65,
+    "name": "osteospermum",
+    "scientific_name": "Osteospermum spp.",
+    "genus": "Osteospermum",
+    "fun_fact": "Also called 'African daisy.'",
+    "where_found": "Southern Africa"
+  },
+  {
+    "id": 66,
+    "name": "spring crocus",
+    "scientific_name": "Crocus vernus",
+    "genus": "Crocus",
+    "fun_fact": "Source of saffron spice (from Crocus sativus).",
+    "where_found": "Alps, Southern Europe"
+  },
+  {
+    "id": 67,
+    "name": "bearded iris",
+    "scientific_name": "Iris × germanica",
+    "genus": "Iris",
+    "fun_fact": "Fuzzy 'beards' on petals guide pollinators.",
+    "where_found": "Europe, Mediterranean"
+  },
+  {
+    "id": 68,
+    "name": "windflower",
+    "scientific_name": "Anemone coronaria",
+    "genus": "Anemone",
+    "fun_fact": "Mythological ties to Aphrodite’s tears.",
+    "where_found": "Mediterranean region"
+  },
+  {
+    "id": 69,
+    "name": "tree poppy",
+    "scientific_name": "Dendromecon rigida",
+    "genus": "Dendromecon",
+    "fun_fact": "Woody shrub with bright yellow blooms.",
+    "where_found": "California, Baja California"
+  },
+  {
+    "id": 70,
+    "name": "gazania",
+    "scientific_name": "Gazania rigens",
+    "genus": "Gazania",
+    "fun_fact": "Flowers close at night and on cloudy days.",
+    "where_found": "Southern Africa"
+  },
+  {
+    "id": 71,
+    "name": "azalea",
+    "scientific_name": "Rhododendron spp.",
+    "genus": "Rhododendron",
+    "fun_fact": "All parts are highly toxic to humans and pets.",
+    "where_found": "Asia, North America"
+  },
+  {
+    "id": 72,
+    "name": "water lily",
+    "scientific_name": "Nymphaea spp.",
+    "genus": "Nymphaea",
+    "fun_fact": "Symbolizes purity in Buddhism and Hinduism.",
+    "where_found": "Global freshwater habitats"
+  },
+  {
+    "id": 73,
+    "name": "rose",
+    "scientific_name": "Rosa spp.",
+    "genus": "Rosa",
+    "fun_fact": "Over 300 species and thousands of cultivars.",
+    "where_found": "Worldwide, temperate regions"
+  },
+  {
+    "id": 74,
+    "name": "thorn apple",
+    "scientific_name": "Datura stramonium",
+    "genus": "Datura",
+    "fun_fact": "Contains hallucinogenic alkaloids.",
+    "where_found": "Americas, naturalized globally"
+  },
+  {
+    "id": 75,
+    "name": "morning glory",
+    "scientific_name": "Ipomoea purpurea",
+    "genus": "Ipomoea",
+    "fun_fact": "Flowers open at dawn and close by afternoon.",
+    "where_found": "Tropical Americas"
+  },
+  {
+    "id": 76,
+    "name": "passion flower",
+    "scientific_name": "Passiflora incarnata",
+    "genus": "Passiflora",
+    "fun_fact": "Complex structure symbolizes Christ’s crucifixion.",
+    "where_found": "Americas, Asia, Australia"
+  },
+  {
+    "id": 77,
+    "name": "lotus",
+    "scientific_name": "Nelumbo nucifera",
+    "genus": "Nelumbo",
+    "fun_fact": "Seeds can remain viable for over 1,000 years.",
+    "where_found": "Asia, Australia"
+  },
+  {
+    "id": 78,
+    "name": "toad lily",
+    "scientific_name": "Tricyrtis hirta",
+    "genus": "Tricyrtis",
+    "fun_fact": "Speckled flowers resemble amphibian skin.",
+    "where_found": "Japan, Himalayas"
+  },
+  {
+    "id": 79,
+    "name": "anthurium",
+    "scientific_name": "Anthurium andraeanum",
+    "genus": "Anthurium",
+    "fun_fact": "Waxy red spathe is often mistaken for a flower.",
+    "where_found": "Colombia, Ecuador"
+  },
+  {
+    "id": 80,
+    "name": "frangipani",
+    "scientific_name": "Plumeria rubra",
+    "genus": "Plumeria",
+    "fun_fact": "Used in Hawaiian leis and Hindu rituals.",
+    "where_found": "Central America, Caribbean"
+  },
+  {
+    "id": 81,
+    "name": "clematis",
+    "scientific_name": "Clematis spp.",
+    "genus": "Clematis",
+    "fun_fact": "Climbs using twisting leaf stalks.",
+    "where_found": "Global temperate regions"
+  },
+  {
+    "id": 82,
+    "name": "hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "genus": "Hibiscus",
+    "fun_fact": "National flower of South Korea and Malaysia.",
+    "where_found": "Tropical Asia, Pacific Islands"
+  },
+  {
+    "id": 83,
+    "name": "columbine",
+    "scientific_name": "Aquilegia vulgaris",
+    "genus": "Aquilegia",
+    "fun_fact": "Spurred petals attract hummingbirds.",
+    "where_found": "Northern Hemisphere"
+  },
+  {
+    "id": 84,
+    "name": "desert-rose",
+    "scientific_name": "Adenium obesum",
+    "genus": "Adenium",
+    "fun_fact": "Caustic sap used to poison arrows in Africa.",
+    "where_found": "Sahel region, East Africa"
+  },
+  {
+    "id": 85,
+    "name": "tree mallow",
+    "scientific_name": "Lavatera spp.",
+    "genus": "Lavatera",
+    "fun_fact": "Fast-growing shrub with hollyhock-like blooms.",
+    "where_found": "Mediterranean, Australia"
+  },
+  {
+    "id": 86,
+    "name": "magnolia",
+    "scientific_name": "Magnolia grandiflora",
+    "genus": "Magnolia",
+    "fun_fact": "Fossil records date back 20 million years.",
+    "where_found": "Southeastern United States"
+  },
+  {
+    "id": 87,
+    "name": "cyclamen",
+    "scientific_name": "Cyclamen persicum",
+    "genus": "Cyclamen",
+    "fun_fact": "Tubers can survive drought for months.",
+    "where_found": "Mediterranean, Middle East"
+  },
+  {
+    "id": 88,
+    "name": "watercress",
+    "scientific_name": "Nasturtium officinale",
+    "genus": "Nasturtium",
+    "fun_fact": "One of the oldest known leafy vegetables.",
+    "where_found": "Europe, Asia, streams worldwide"
+  },
+  {
+    "id": 89,
+    "name": "canna lily",
+    "scientific_name": "Canna indica",
+    "genus": "Canna",
+    "fun_fact": "Seeds were used as shotgun pellets in the past.",
+    "where_found": "Tropical Americas"
+  },
+  {
+    "id": 90,
+    "name": "hippeastrum",
+    "scientific_name": "Hippeastrum spp.",
+    "genus": "Hippeastrum",
+    "fun_fact": "Often mislabeled as 'amaryllis.'",
+    "where_found": "South America"
+  },
+  {
+    "id": 91,
+    "name": "bee balm",
+    "scientific_name": "Monarda didyma",
+    "genus": "Monarda",
+    "fun_fact": "Used to make Oswego tea by Native Americans.",
+    "where_found": "Eastern North America"
+  },
+  {
+    "id": 92,
+    "name": "ball moss",
+    "scientific_name": "Tillandsia recurvata",
+    "genus": "Tillandsia",
+    "fun_fact": "Not a moss—it’s an air plant!",
+    "where_found": "Americas, subtropical regions"
+  },
+  {
+    "id": 93,
+    "name": "foxglove",
+    "scientific_name": "Digitalis purpurea",
+    "genus": "Digitalis",
+    "fun_fact": "Source of heart medication digoxin.",
+    "where_found": "Europe, naturalized in Americas"
+  },
+  {
+    "id": 94,
+    "name": "bougainvillea",
+    "scientific_name": "Bougainvillea spp.",
+    "genus": "Bougainvillea",
+    "fun_fact": "Vibrant 'flowers' are actually colored bracts.",
+    "where_found": "South America, tropical regions"
+  },
+  {
+    "id": 95,
+    "name": "camellia",
+    "scientific_name": "Camellia japonica",
+    "genus": "Camellia",
+    "fun_fact": "Leaves used to make traditional tea.",
+    "where_found": "East Asia (China, Japan)"
+  },
+  {
+    "id": 96,
+    "name": "mallow",
+    "scientific_name": "Malva sylvestris",
+    "genus": "Malva",
+    "fun_fact": "Leaves and flowers are edible.",
+    "where_found": "Europe, Asia, North Africa"
+  },
+  {
+    "id": 97,
+    "name": "mexican petunia",
+    "scientific_name": "Ruellia simplex",
+    "genus": "Ruellia",
+    "fun_fact": "Invasive in Florida wetlands.",
+    "where_found": "Mexico, Caribbean"
+  },
+  {
+    "id": 98,
+    "name": "bromelia",
+    "scientific_name": "Bromelia spp.",
+    "genus": "Bromelia",
+    "fun_fact": "Pineapple is a member of this genus.",
+    "where_found": "Tropical Americas"
+  },
+  {
+    "id": 99,
+    "name": "blanket flower",
+    "scientific_name": "Gaillardia pulchella",
+    "genus": "Gaillardia",
+    "fun_fact": "Named for its resemblance to Indigenous blankets.",
+    "where_found": "North and South America"
+  },
+  {
+    "id": 100,
+    "name": "trumpet creeper",
+    "scientific_name": "Campsis radicans",
+    "genus": "Campsis",
+    "fun_fact": "Hummingbirds are its primary pollinators.",
+    "where_found": "Eastern United States"
+  },
+  {
+    "id": 101,
+    "name": "blackberry lily",
+    "scientific_name": "Iris domestica",
+    "genus": "Iris",
+    "fun_fact": "Seeds resemble blackberries but are toxic.",
+    "where_found": "East Asia, naturalized in North America"
+  }
+]
