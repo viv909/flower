@@ -26,17 +26,16 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Run Tests
+      - name: Install jq (for JSON parsing)
+        run: sudo apt-get install jq -y
+
+      - name: Download Model from GitHub Releases
         run: |
-          pytest test_app.py  # Ensure pytest is installed and tests are in test_app.py
+          MODEL_URL=$(curl -s https://api.github.com/repos/viv909/flower/releases/latest | jq -r '.assets[0].browser_download_url')
+          wget -O model.pth "$MODEL_URL"
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
+      - name: Verify Model File
+        run: ls -lh model.pth  # Check if model file is downloaded
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Deploy (Placeholder)
-        run: echo "Deployment step here"
+      - name: Run Tests
+        run: pytest test_app.py
