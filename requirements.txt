@@ -5,3 +5,4 @@ Pillow
 numpy
 jsonschema
 numpy
+pytest
