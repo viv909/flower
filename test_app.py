@@ -35,7 +35,7 @@ class TestLoadFlowerInfo(unittest.TestCase):
 class TestClassifyImage(unittest.TestCase):
     def test_classify_image_output(self):
         # Create a dummy white image with PIL
-        dummy_image ="images.jpeg"
+        dummy_image =Image.open("images.jpeg")
         try:
             predicted_class, info = classify_image(dummy_image)
         except Exception as e:
