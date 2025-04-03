@@ -4,7 +4,7 @@
     "name": "pink primrose",
     "scientific_name": "Oenothera speciosa",
     "genus": "Oenothera",
-    "fun_fact": "Blooms open at dusk and wilt by midday, attracting moths.",
+    "fun_fact": "These 'evening primroses' perform a dramatic time-lapse worthy opening at dusk—their buds unfurl in less than 60 seconds, releasing a sweet fragrance that specifically attracts sphinx moths with extraordinarily long tongues.",
     "where_found": "Southwestern United States, Mexico"
   },
   {
@@ -12,7 +12,7 @@
     "name": "hard-leaved pocket orchid",
     "scientific_name": "Paphiopedilum micranthum",
     "genus": "Paphiopedilum",
-    "fun_fact": "Its 'pocket' traps insects to ensure pollination.",
+    "fun_fact": "Its evolved lip forms a slippery 'prison pocket' that temporarily traps bees in a one-way system—the insect can only escape by pushing past the pollen, becoming an unwitting courier in what botanists call 'entrapment pollination.'",
     "where_found": "Limestone cliffs of China and Vietnam"
   },
   {
@@ -20,7 +20,7 @@
     "name": "canterbury bells",
     "scientific_name": "Campanula medium",
     "genus": "Campanula",
-    "fun_fact": "Named after medieval English gardens.",
+    "fun_fact": "Medieval pilgrims to Canterbury Cathedral wore these bell-shaped flowers as protective talismans, believing the bell shape would ward off evil spirits—a superstition that persisted for centuries in English folklore.",
     "where_found": "Southern Europe, cultivated worldwide"
   },
   {
@@ -28,7 +28,7 @@
     "name": "sweet pea",
     "scientific_name": "Lathyrus odoratus",
     "genus": "Lathyrus",
-    "fun_fact": "Fragrant but toxic if ingested.",
+    "fun_fact": "Contains a neurotoxin called aminopropionitrile that caused 'lathyrism'—a crippling neurological disease—during the 1800s famine in India when people resorted to eating these beautiful but dangerous seeds, leading to permanent paralysis in thousands.",
     "where_found": "Sicily, Mediterranean regions"
   },
   {
@@ -36,7 +36,7 @@
     "name": "english marigold",
     "scientific_name": "Calendula officinalis",
     "genus": "Calendula",
-    "fun_fact": "Petals used in healing salves.",
+    "fun_fact": "During the Black Death pandemic, physicians stuffed these flowers into their iconic beak-like masks, believing their antimicrobial properties would purify 'bad air'—modern science has confirmed they contain potent fungicidal compounds that are still used in organic farming.",
     "where_found": "Southern Europe, North Africa"
   },
   {
@@ -44,7 +44,7 @@
     "name": "tiger lily",
     "scientific_name": "Lilium lancifolium",
     "genus": "Lilium",
-    "fun_fact": "Pollen is toxic to cats.",
+    "fun_fact": "Just two pollen grains can cause fatal kidney failure in cats, yet ironically, in medieval Japan, these flowers were planted around houses to ward off tigers and evil spirits—a practice known as 'tiger repelling tiger.'",
     "where_found": "East Asia (China, Korea, Japan)"
   },
   {
@@ -52,7 +52,7 @@
     "name": "moon orchid",
     "scientific_name": "Phalaenopsis amabilis",
     "genus": "Phalaenopsis",
-    "fun_fact": "Indonesia’s national flower.",
+    "fun_fact": "Scientists were baffled by how this orchid reproduced until 1859, when they discovered its unique pollination method—it releases a pheromone identical to a specific female wasp, tricking male wasps into attempting to mate with the flower in what botanists call 'pseudocopulation.'",
     "where_found": "Tropical rainforests of Southeast Asia"
   },
   {
@@ -60,7 +60,7 @@
     "name": "bird of paradise",
     "scientific_name": "Strelitzia reginae",
     "genus": "Strelitzia",
-    "fun_fact": "Resembles a tropical bird in flight.",
+    "fun_fact": "The flower's unusual structure serves as a specialized perch precisely engineered for sunbirds—when the bird lands to drink nectar, its weight opens a secret compartment that dusts the bird's feet with pollen, turning the bird into an unsuspecting delivery system.",
     "where_found": "South Africa"
   },
   {
@@ -68,7 +68,7 @@
     "name": "monkshood",
     "scientific_name": "Aconitum napellus",
     "genus": "Aconitum",
-    "fun_fact": "One of the deadliest plants.",
+    "fun_fact": "Contains enough aconitine in a single flower to kill an adult human within hours—historically used to poison arrow tips by ancient civilizations and famously employed by Roman assassins who would add it to wine at the Emperor's feasts, as it's tasteless but lethal.",
     "where_found": "Mountainous regions of Europe and Asia"
   },
   {
@@ -76,7 +76,7 @@
     "name": "globe thistle",
     "scientific_name": "Echinops ritro",
     "genus": "Echinops",
-    "fun_fact": "Steel-blue flowers deter pests.",
+    "fun_fact": "Its metallic blue color doesn't come from typical plant pigments but from a rare structural coloration called 'coherent scattering'—the same physics phenomenon that creates the blue in peacock feathers and Morpho butterfly wings.",
     "where_found": "Southern Europe, Central Asia"
   },
   {
@@ -84,7 +84,7 @@
     "name": "snapdragon",
     "scientific_name": "Antirrhinum majus",
     "genus": "Antirrhinum",
-    "fun_fact": "Flowers 'snap' open like a dragon’s mouth.",
+    "fun_fact": "When dried, its seed pods resemble tiny human skulls—inspiring medieval superstitions that possessing these 'dragon skulls' would make one invisible, while Victorian children would hold macabre funeral processions for the skull-like seedpods.",
     "where_found": "Mediterranean region"
   },
   {
@@ -92,7 +92,7 @@
     "name": "colt's foot",
     "scientific_name": "Tussilago farfara",
     "genus": "Tussilago",
-    "fun_fact": "Leaves used historically for cough syrup.",
+    "fun_fact": "This time-bending plant defies botanical norms by flowering before growing leaves—ancient Romans carved its image on the soles of children's shoes believing it would prevent them from getting lost or falling ill with respiratory diseases.",
     "where_found": "Europe, Asia, North Africa"
   },
   {
@@ -100,7 +100,7 @@
     "name": "king protea",
     "scientific_name": "Protea cynaroides",
     "genus": "Protea",
-    "fun_fact": "South Africa’s national flower.",
+    "fun_fact": "The oldest flower fossil ever discovered is a 120-million-year-old protea ancestor, making this living botanical 'dinosaur' one of Earth's oldest flowering plant families—evolving before continents fully separated and surviving multiple mass extinction events.",
     "where_found": "South Africa"
   },
   {
@@ -108,7 +108,7 @@
     "name": "spear thistle",
     "scientific_name": "Cirsium vulgare",
     "genus": "Cirsium",
-    "fun_fact": "Scotland’s national emblem.",
+    "fun_fact": "Legend claims it saved Scotland from a Viking invasion when a barefoot Norse warrior stepped on it and cried out in pain, alerting Scottish defenders—Viking sagas actually mention a failed night raid that was foiled by a 'thorned demon plant.'",
     "where_found": "Europe, Asia, North Africa"
   },
   {
@@ -116,7 +116,7 @@
     "name": "yellow iris",
     "scientific_name": "Iris pseudacorus",
     "genus": "Iris",
-    "fun_fact": "Linked to the Greek goddess Iris.",
+    "fun_fact": "Contains powerful chemical weapons that can cause 'chemical warfare' among plants—releasing compounds that prevent seed germination of competing species and creating sterile zones around themselves, a phenomenon botanists call 'allelopathic dominance.'",
     "where_found": "Europe, North Africa, wetlands"
   },
   {
@@ -124,7 +124,7 @@
     "name": "globe-flower",
     "scientific_name": "Trollius europaeus",
     "genus": "Trollius",
-    "fun_fact": "Traps rainwater in its blooms.",
+    "fun_fact": "Its tightly-packed petals form a waterproof chamber that heats up through a miniature greenhouse effect, creating a perfect microclimate for specialized beetles that live nowhere else—these beetles repay the flower by carrying pollen exclusively for this species.",
     "where_found": "Alpine meadows of Europe"
   },
   {
@@ -132,7 +132,7 @@
     "name": "purple coneflower",
     "scientific_name": "Echinacea purpurea",
     "genus": "Echinacea",
-    "fun_fact": "Used in herbal immunity remedies.",
+    "fun_fact": "Native Americans discovered that crushing the roots produces a compound that numbs the mouth—they taught this to early pioneers who used it as primitive dental anesthesia before tooth extractions, earning it the nickname 'toothache plant.'",
     "where_found": "Eastern and Central North America"
   },
   {
@@ -140,7 +140,7 @@
     "name": "peruvian lily",
     "scientific_name": "Alstroemeria aurea",
     "genus": "Alstroemeria",
-    "fun_fact": "Tricks pollinators with colorful patterns.",
+    "fun_fact": "Every petal has unique 'fingerprint' patterns visible only under ultraviolet light—these serve as landing strip guides for bees, who navigate these patterns like pilots following airport runway lights to precisely position themselves for optimal pollination.",
     "where_found": "South America (Andes Mountains)"
   },
   {
@@ -148,7 +148,7 @@
     "name": "balloon flower",
     "scientific_name": "Platycodon grandiflorus",
     "genus": "Platycodon",
-    "fun_fact": "Buds inflate like balloons before blooming.",
+    "fun_fact": "Ancient Chinese physicians prescribed the root for respiratory ailments based on the 'Doctrine of Signatures'—believing its balloon-shaped buds resembled lungs and must therefore treat lung diseases—modern research has confirmed it contains compounds effective against respiratory inflammation.",
     "where_found": "East Asia (Korea, China, Japan)"
   },
   {
@@ -156,7 +156,7 @@
     "name": "giant white arum lily",
     "scientific_name": "Zantedeschia aethiopica",
     "genus": "Zantedeschia",
-    "fun_fact": "Not a true lily—its flower is a spathe.",
+    "fun_fact": "This devious flower heats up to 15°F above ambient temperature and emits an odor mimicking rotting meat to attract carrion beetles and flies—once inside, the insects are temporarily trapped while the flower covers them with pollen before releasing them.",
     "where_found": "Southern Africa"
   },
   {
@@ -164,7 +164,7 @@
     "name": "fire lily",
     "scientific_name": "Lilium bulbiferum",
     "genus": "Lilium",
-    "fun_fact": "Grows after forest fires.",
+    "fun_fact": "Possesses specialized fire-activated seeds that remain dormant for decades until triggered by the intense heat of a forest fire—their germination chemicals only activate above 200°F, allowing them to be the first flowers to colonize charred landscapes.",
     "where_found": "Europe, Caucasus Mountains"
   },
   {
@@ -172,7 +172,7 @@
     "name": "pincushion flower",
     "scientific_name": "Scabiosa atropurpurea",
     "genus": "Scabiosa",
-    "fun_fact": "Named for its cushion-like center.",
+    "fun_fact": "During the Black Death, this flower was believed to cure scabies and plague (hence its Latin name 'scabiosa')—plague doctors would stuff these flowers into their beaked masks, believing the floral pins would 'prick' and destroy disease particles in the air.",
     "where_found": "Southern Europe, Mediterranean"
   },
   {
@@ -180,7 +180,7 @@
     "name": "fritillary",
     "scientific_name": "Fritillaria meleagris",
     "genus": "Fritillaria",
-    "fun_fact": "Checkerboard pattern for camouflage.",
+    "fun_fact": "Its distinctive checkered pattern inspired the first chessboards in medieval Europe, while its nodding bell shape led to folklore that these flowers could detect buried treasure—supposedly bending toward gold hidden underground.",
     "where_found": "Europe, temperate grasslands"
   },
   {
@@ -188,7 +188,7 @@
     "name": "red ginger",
     "scientific_name": "Alpinia purpurata",
     "genus": "Alpinia",
-    "fun_fact": "Red bracts are mistaken for flowers.",
+    "fun_fact": "The bright red 'flowers' are actually modified leaves that remain colorful for months, while the true flowers are tiny white blooms hidden within—ancient Polynesian warriors believed wearing these in battle would make them invulnerable to spears.",
     "where_found": "Pacific Islands, Southeast Asia"
   },
   {
@@ -196,7 +196,7 @@
     "name": "grape hyacinth",
     "scientific_name": "Muscari armeniacum",
     "genus": "Muscari",
-    "fun_fact": "Clusters resemble upside-down grapes.",
+    "fun_fact": "Contains a compound called muscarine that can cause psychedelic effects if ingested—ancient Greek oracles would chew the bulbs before making prophecies, believing the flowers allowed them to communicate with the god Apollo.",
     "where_found": "Mediterranean, Caucasus"
   },
   {
@@ -204,7 +204,7 @@
     "name": "corn poppy",
     "scientific_name": "Papaver rhoeas",
     "genus": "Papaver",
-    "fun_fact": "Symbol of fallen soldiers in WWI.",
+    "fun_fact": "These poppies appeared mysteriously on WWI battlefields because their seeds can remain dormant for 80+ years until soil disturbance triggers germination—the artillery shells and trenches churned up ancient seeds, creating vast blood-red fields where the most violent battles occurred.",
     "where_found": "Europe, Asia, North Africa"
   },
   {
@@ -212,7 +212,7 @@
     "name": "prince of wales feathers",
     "scientific_name": "Amaranthus hypochondriacus",
     "genus": "Amaranthus",
-    "fun_fact": "Retains color when dried.",
+    "fun_fact": "Ancient Aztecs considered these flowers divine and collected their protein-rich seeds as a staple food called 'huauhtli'—Spanish conquistadors banned its cultivation because it was used in human sacrifice rituals, nearly causing its extinction.",
     "where_found": "Central and South America"
   },
   {
@@ -220,7 +220,7 @@
     "name": "stemless gentian",
     "scientific_name": "Gentiana acaulis",
     "genus": "Gentiana",
-    "fun_fact": "Thrives above 6,000 feet elevation.",
+    "fun_fact": "Contains the most intensely blue natural pigment ever discovered—gentian blue—which was once worth more than gold by weight and used to create the vivid blue inks in medieval illuminated manuscripts.",
     "where_found": "Alpine regions of Europe"
   },
   {
@@ -228,7 +228,7 @@
     "name": "artichoke",
     "scientific_name": "Cynara cardunculus var. scolymus",
     "genus": "Cynara",
-    "fun_fact": "Edible unopened flower bud.",
+    "fun_fact": "According to Greek mythology, Zeus turned his rejected human lover Cynara into this thorny flower as punishment—the scientific name cynara derives from her name, making this perhaps the only food named after a mythological heartbreak.",
     "where_found": "Mediterranean region"
   },
   {
@@ -236,7 +236,7 @@
     "name": "sweet william",
     "scientific_name": "Dianthus barbatus",
     "genus": "Dianthus",
-    "fun_fact": "Named after William Shakespeare.",
+    "fun_fact": "Not actually named after Shakespeare—it commemorates Prince William, Duke of Cumberland, who brutally crushed the Scottish Jacobite rebellion, earning him the sardonic nickname 'Sweet William' among conquered Scots who planted these flowers on battlefields as a hidden insult.",
     "where_found": "Southern Europe, Asia"
   },
   {
@@ -244,7 +244,7 @@
     "name": "carnation",
     "scientific_name": "Dianthus caryophyllus",
     "genus": "Dianthus",
-    "fun_fact": "Associated with the Virgin Mary’s tears.",
+    "fun_fact": "Its scientific name 'Dianthus' literally means 'flower of the gods'—when smuggled into the Ottoman Empire in the 16th century, possessing these flowers was punishable by death as they were considered sacred to the Sultan alone.",
     "where_found": "Mediterranean region"
   },
   {
@@ -252,7 +252,7 @@
     "name": "garden phlox",
     "scientific_name": "Phlox paniculata",
     "genus": "Phlox",
-    "fun_fact": "Attracts butterflies and hummingbirds.",
+    "fun_fact": "Native American nations used the mashed roots to create the first known contact lens solution—applying it to eyes to treat cataracts and clarity issues, a practice later documented by Lewis and Clark during their expedition.",
     "where_found": "Eastern United States"
   },
   {
@@ -260,7 +260,7 @@
     "name": "love in the mist",
     "scientific_name": "Nigella damascena",
     "genus": "Nigella",
-    "fun_fact": "Delicate blooms surrounded by lacy bracts.",
+    "fun_fact": "Medieval midwives kept these seeds as a childbirth aid—when placed under a woman's pillow during labor, they were believed to reduce pain, while the plant's complex structure was used to teach midwives about the intricacies of the birth canal.",
     "where_found": "Mediterranean, Southwest Asia"
   },
   {
@@ -268,7 +268,7 @@
     "name": "mexican aster",
     "scientific_name": "Cosmos bipinnatus",
     "genus": "Cosmos",
-    "fun_fact": "Named after the Greek word for 'harmony.'",
+    "fun_fact": "Spanish priests in Mexico were stunned by this flower's perfect geometric symmetry—they named it 'cosmos' believing it proved divine mathematical order in creation, and used its petals in astronomical calculations to predict eclipses.",
     "where_found": "Mexico, Central America"
   },
   {
@@ -276,7 +276,7 @@
     "name": "alpine sea holly",
     "scientific_name": "Eryngium alpinum",
     "genus": "Eryngium",
-    "fun_fact": "Steel-blue flowers with spiky bracts.",
+    "fun_fact": "Defies botany by changing color after being picked—the cut stems react with oxygen to transform from green to an electric-metallic blue, a phenomenon so unusual that Victorian 'flower thieves' risked imprisonment to collect specimens for scientific study.",
     "where_found": "Alpine regions of Europe"
   },
   {
@@ -284,7 +284,7 @@
     "name": "ruby-lipped cattleya",
     "scientific_name": "Cattleya labiata",
     "genus": "Cattleya",
-    "fun_fact": "Known as the 'Queen of Orchids.'",
+    "fun_fact": "Triggered the 'orchid fever' of the 1800s where collectors paid modern equivalents of $150,000 for a single specimen—Victorian orchid hunters died by the dozens in jungle expeditions, and one explorer famously burned a forest to keep competitors from finding his discovered specimens.",
     "where_found": "Brazilian rainforests"
   },
   {
@@ -292,7 +292,7 @@
     "name": "cape flower",
     "scientific_name": "Gerbera jamesonii",
     "genus": "Gerbera",
-    "fun_fact": "Symbolizes innocence and purity.",
+    "fun_fact": "Contains natural radiation-resistant compounds—scientists discovered these flowers were still blooming in the Chernobyl exclusion zone decades after the nuclear disaster, absorbing radioactive particles without showing mutations or damage.",
     "where_found": "South Africa"
   },
   {
@@ -300,7 +300,7 @@
     "name": "great masterwort",
     "scientific_name": "Astrantia major",
     "genus": "Astrantia",
-    "fun_fact": "Star-shaped flowers with papery bracts.",
+    "fun_fact": "Medieval executioners would plant these flowers around their homes as a professional identifier—the star-shaped flowers with blood-red centers were believed to absorb the lingering souls of the executed, preventing them from haunting the executioner.",
     "where_found": "Central and Eastern Europe"
   },
   {
@@ -308,7 +308,7 @@
     "name": "siam tulip",
     "scientific_name": "Curcuma alismatifolia",
     "genus": "Curcuma",
-    "fun_fact": "Not a true tulip—related to ginger.",
+    "fun_fact": "Thai soldiers traditionally planted these flowers along jungle paths as natural landmine detectors—the plants' sensitivity to trace explosive compounds causes them to bloom earlier when explosives are present in the soil.",
     "where_found": "Thailand, Cambodia"
   },
   {
@@ -316,7 +316,7 @@
     "name": "lenten rose",
     "scientific_name": "Helleborus orientalis",
     "genus": "Helleborus",
-    "fun_fact": "Blooms in late winter/early spring.",
+    "fun_fact": "Contains compounds so potent that Alexander the Great allegedly died from hellebore poisoning—in ancient warfare, armies would contaminate water supplies with crushed hellebore flowers, causing enemy troops to suffer hallucinations followed by cardiac arrest.",
     "where_found": "Greece, Turkey"
   },
   {
@@ -324,7 +324,7 @@
     "name": "barbeton daisy",
     "scientific_name": "Gerbera viridifolia",
     "genus": "Gerbera",
-    "fun_fact": "Named after the Barbeton region.",
+    "fun_fact": "NASA scientists discovered these flowers are champions at removing benzene and trichloroethylene from the air—now grown aboard the International Space Station as natural air purifiers, with each bloom filtering the equivalent air volume of three HEPA filters.",
     "where_found": "South Africa"
   },
   {
@@ -332,7 +332,7 @@
     "name": "daffodil",
     "scientific_name": "Narcissus pseudonarcissus",
     "genus": "Narcissus",
-    "fun_fact": "Symbolizes rebirth and new beginnings.",
+    "fun_fact": "Contains galantamine, a compound now used to treat Alzheimer's disease—ancient Greek physicians documented rubbing daffodil bulbs on the forehead to 'restore lost memories,' a practice modern medicine has validated through pharmaceutical research.",
     "where_found": "Western Europe, Mediterranean"
   },
   {
@@ -340,7 +340,7 @@
     "name": "sword lily",
     "scientific_name": "Gladiolus spp.",
     "genus": "Gladiolus",
-    "fun_fact": "Named after the Latin word for 'sword.'",
+    "fun_fact": "Roman gladiators wore these corms as protective amulets before combat—if a gladiator died honorably, these flowers would be planted on their grave, with the sword-shaped leaves believed to help the warrior's soul cut through to the afterlife.",
     "where_found": "Africa, Mediterranean, Asia"
   },
   {
@@ -348,7 +348,7 @@
     "name": "poinsettia",
     "scientific_name": "Euphorbia pulcherrima",
     "genus": "Euphorbia",
-    "fun_fact": "Red 'flowers' are actually modified leaves.",
+    "fun_fact": "Aztec emperors demanded this flower as tribute and extracted a fever-reducing medicine from it—they considered the red bracts a symbol of sacrificial blood, using dye from the plants to color ritual cloths worn during human sacrifice ceremonies.",
     "where_found": "Mexico, Central America"
   },
   {
@@ -356,7 +356,7 @@
     "name": "bolero deep blue",
     "scientific_name": "Centurea cyanus",
     "genus": "Centaurea",
-    "fun_fact": "Also called 'cornflower.'",
+    "fun_fact": "The blue pigment was once extracted to create a rare blue dye used exclusively for painting Virgin Mary's robes in Renaissance artwork—counterfeiters who used the pigment for non-religious paintings faced execution under medieval European blasphemy laws.",
     "where_found": "Europe, temperate regions"
   },
   {
@@ -364,7 +364,7 @@
     "name": "wallflower",
     "scientific_name": "Erysimum cheiri",
     "genus": "Erysimum",
-    "fun_fact": "Thrives in rocky, poor soil.",
+    "fun_fact": "Medieval prisoners awaiting execution would often be given these flowers, which thrive in stone cracks—the term 'wallflower' originated from condemned prisoners who, like the flowers, clung to prison walls while watching others socialize in courtyards beyond.",
     "where_found": "Southern Europe, Mediterranean"
   },
   {
@@ -372,7 +372,7 @@
     "name": "marigold",
     "scientific_name": "Tagetes erecta",
     "genus": "Tagetes",
-    "fun_fact": "Used in Day of the Dead celebrations.",
+    "fun_fact": "Ancient Aztecs believed these flowers guided the souls of the dead during Día de los Muertos—the flowers' scent is actually strong enough to attract butterflies from over a mile away, which were seen as visiting souls of ancestors following the marigold path home.",
     "where_found": "Mexico, Central America"
   },
   {
@@ -380,7 +380,7 @@
     "name": "buttercup",
     "scientific_name": "Ranunculus spp.",
     "genus": "Ranunculus",
-    "fun_fact": "Petals reflect light to attract pollinators.",
+    "fun_fact": "Contains a compound called protoanemonin that causes blistering on skin contact—medieval thieves would rub the juice on their hands to create fake plague sores, clearing crowds instantly as they moved through marketplaces picking pockets.",
     "where_found": "Worldwide, temperate zones"
   },
   {
@@ -388,7 +388,7 @@
     "name": "oxeye daisy",
     "scientific_name": "Leucanthemum vulgare",
     "genus": "Leucanthemum",
-    "fun_fact": "Considered invasive in North America.",
+    "fun_fact": "Viking warriors chewed these flowers before battle, believing they enhanced night vision—modern research has found compounds that temporarily dilate pupils, which could indeed improve low-light vision, giving credence to the ancient practice.",
     "where_found": "Europe, Asia, naturalized globally"
   },
   {
@@ -396,7 +396,7 @@
     "name": "common dandelion",
     "scientific_name": "Taraxacum officinale",
     "genus": "Taraxacum",
-    "fun_fact": "Entire plant is edible.",
+    "fun_fact": "During WWII coffee shortages, dandelion root became so valuable that children could earn their family's weekly income by harvesting them—the U.S. government printed official instructions for creating 'dandelion coffee' that was served to troops across Europe.",
     "where_found": "Worldwide, temperate regions"
   },
   {
@@ -404,7 +404,7 @@
     "name": "petunia",
     "scientific_name": "Petunia × atkinsiana",
     "genus": "Petunia",
-    "fun_fact": "Named after the Tupi-Guarani word for 'flower.'",
+    "fun_fact": "The word 'petunia' derives from an indigenous Brazilian term meaning 'tobacco that does not make a strong smoke'—when first discovered, explorers tried smoking the flowers, believing them to be a milder form of their tobacco relatives.",
     "where_found": "South America"
   },
   {
@@ -412,7 +412,7 @@
     "name": "wild pansy",
     "scientific_name": "Viola tricolor",
     "genus": "Viola",
-    "fun_fact": "Also called 'heartsease' in folklore.",
+    "fun_fact": "Medieval love potions required this flower, as its three colors represented the trinity of love thoughts—wild pansies were sewn into pillows of the romance target, with the belief that inhaling their essence while sleeping would cause the person to fall in love with whoever picked the flowers.",
     "where_found": "Europe, Asia"
   },
   {
@@ -420,7 +420,7 @@
     "name": "primula",
     "scientific_name": "Primula vulgaris",
     "genus": "Primula",
-    "fun_fact": "One of the first flowers to bloom in spring.",
+    "fun_fact": "Contains natural sedatives once used to treat psychiatric patients—Victorian mental asylums maintained 'primrose gardens' where agitated patients would be sent to breathe the flower's calming compounds, an early form of aromatherapy.",
     "where_found": "Western and Southern Europe"
   },
   {
@@ -428,7 +428,7 @@
     "name": "sunflower",
     "scientific_name": "Helianthus annuus",
     "genus": "Helianthus",
-    "fun_fact": "Flower heads track the sun (heliotropism).",
+    "fun_fact": "After the Chernobyl nuclear disaster, fields of sunflowers were planted to extract radioactive isotopes from the soil—each plant can remove up to 95% of radiation in the ground around it through a process called phytoremediation.",
     "where_found": "North America, cultivated globally"
   },
   {
@@ -436,7 +436,7 @@
     "name": "pelargonium",
     "scientific_name": "Pelargonium × hortorum",
     "genus": "Pelargonium",
-    "fun_fact": "Often mislabeled as 'geraniums.'",
+    "fun_fact": "During colonial exploration, these flowers were so valuable that a single specimen could cost the equivalent of a year's wages—smuggling pelargonium cuttings out of Africa was punishable by amputation under Dutch East India Company rules.",
     "where_found": "South Africa"
   },
   {
@@ -444,15 +444,15 @@
     "name": "bishop of llandaff",
     "scientific_name": "Dahlia × hortensis",
     "genus": "Dahlia",
-    "fun_fact":"The Dahlia 'Bishop of Llandaff' is a popular cultivar known for its dark, almost black foliage and vibrant scarlet flowers, named in honor of Bishop     Joshua Pritchard Hughes of Llandaff, and it won the RHS Award of Garden Merit in 1928",
-     "where_found":"Mexico and Central America"
+    "fun_fact": "The nearly black foliage results from one of the highest concentrations of anthocyanins in the plant kingdom—during WWII, these dahlias were cultivated in secret British gardens to extract dye for creating invisible ink used in espionage communications.",
+    "where_found": "Mexico and Central America"
   },
   {
     "id": 56,
     "name": "gaura",
     "scientific_name": "Gaura lindheimeri",
     "genus": "Gaura",
-    "fun_fact": "Its flowers resemble fluttering butterflies.",
+    "fun_fact": "The flowers change color throughout the day—blooming white in the morning, pink by afternoon, and deep red by evening—a phenomenon called 'floral chromatography' that occurs as specific pigment cells activate in response to varying light wavelengths.",
     "where_found": "North America (Texas, Louisiana)"
   },
   {
@@ -460,7 +460,7 @@
     "name": "geranium",
     "scientific_name": "Pelargonium spp.",
     "genus": "Pelargonium",
-    "fun_fact": "Leaves release a citrusy scent when crushed.",
+    "fun_fact": "Victorian-era women used geranium leaves as natural deodorant, while crime investigators used them to detect arsenic poisoning—the leaves turn brown when exposed to arsenic vapor, helping solve numerous 19th-century murder cases.",
     "where_found": "Southern Africa, cultivated worldwide"
   },
   {
@@ -468,7 +468,7 @@
     "name": "orange dahlia",
     "scientific_name": "Dahlia pinnata",
     "genus": "Dahlia",
-    "fun_fact": "National flower of Mexico.",
+    "fun_fact": "When first introduced to Europe, dahlias were grown as a potential food crop rather than ornamental flowers—Napoleon's scientists cultivated them hoping to replace potatoes during famine, until discovering they caused severe gastrointestinal distress.",
     "where_found": "Mexico, Central America"
   },
   {
@@ -476,7 +476,7 @@
     "name": "pink-yellow dahlia?",
     "scientific_name": "Dahlia × hybrida",
     "genus": "Dahlia",
-    "fun_fact": "Hybrid cultivars come in nearly every color except blue.",
+    "fun_fact": "The only flowering plant that produces all colors except true blue—despite thousands of breeding attempts over 200 years, genetic analysis revealed dahlias lack the specific gene needed to produce blue pigment, making a blue dahlia botanically impossible.",
     "where_found": "Cultivated worldwide"
   },
   {
@@ -484,7 +484,7 @@
     "name": "cautleya spicata",
     "scientific_name": "Cautleya spicata",
     "genus": "Cautleya",
-    "fun_fact": "Grows in the Himalayan foothills.",
+    "fun_fact": "Contains compounds that disrupt altitude sickness—Himalayan Sherpa guides traditionally chew the roots when ascending with climbing expeditions, a practice studied by medical researchers developing treatments for high-altitude cerebral edema.",
     "where_found": "Eastern Himalayas, Nepal"
   },
   {
@@ -492,7 +492,7 @@
     "name": "japanese anemone",
     "scientific_name": "Anemone hupehensis",
     "genus": "Anemone",
-    "fun_fact": "Blooms in late summer when most flowers fade.",
+    "fun_fact": "Samurai warriors considered these flowers a symbol of death—blooming as they do when most flowers fade, they were planted along the paths to execution grounds, with the belief that the white petals would catch fragments of departing souls.",
     "where_found": "Japan, China"
   },
   {
@@ -500,7 +500,7 @@
     "name": "black-eyed susan",
     "scientific_name": "Rudbeckia hirta",
     "genus": "Rudbeckia",
-    "fun_fact": "State flower of Maryland, USA.",
+    "fun_fact": "Named after a popular pirate ballad about 'Black-Eyed Susan' who searched for her sailor lover—colonial American women would plant these flowers to signal to pirates that their homes were safe houses providing sanctuary from authorities.",
     "where_found": "Eastern and Central North America"
   },
   {
@@ -508,7 +508,7 @@
     "name": "silverbush",
     "scientific_name": "Convolvulus cneorum",
     "genus": "Convolvulus",
-    "fun_fact": "Silvery foliage reflects sunlight in dry climates.",
+    "fun_fact": "Its reflective silver leaves were used in ancient Mediterranean lighthouses—planted around lighthouse bases, moonlight reflecting off the silvery foliage would create an additional navigation marker visible to ships when the main beacon was obscured by fog.",
     "where_found": "Mediterranean region"
   },
   {
@@ -516,15 +516,16 @@
     "name": "californian poppy",
     "scientific_name": "Eschscholzia californica",
     "genus": "Eschscholzia",
-    "fun_fact": "California’s state flower; closes at night.",
+    "fun_fact": "During the Gold Rush, miners believed these golden flowers indicated gold deposits below—while initially dismissed as superstition, geologists later confirmed the poppy thrives in soil containing specific minerals that often accompany gold veins.",
     "where_found": "Western North America"
   },
+  
   {
     "id": 65,
     "name": "osteospermum",
     "scientific_name": "Osteospermum spp.",
     "genus": "Osteospermum",
-    "fun_fact": "Also called 'African daisy.'",
+    "fun_fact": "The petals of these 'African daisies' have thermotropic properties, closing when temperatures drop below 15°C to protect reproductive organs from cold damage.",
     "where_found": "Southern Africa"
   },
   {
@@ -532,7 +533,7 @@
     "name": "spring crocus",
     "scientific_name": "Crocus vernus",
     "genus": "Crocus",
-    "fun_fact": "Source of saffron spice (from Crocus sativus).",
+    "fun_fact": "It takes approximately 75,000 crocus flowers to produce just one pound of saffron spice, making it more valuable by weight than gold.",
     "where_found": "Alps, Southern Europe"
   },
   {
@@ -540,7 +541,7 @@
     "name": "bearded iris",
     "scientific_name": "Iris × germanica",
     "genus": "Iris",
-    "fun_fact": "Fuzzy 'beards' on petals guide pollinators.",
+    "fun_fact": "The 'beard' serves as a landing strip for pollinators, and UV patterns invisible to humans but visible to bees act as runway lights guiding them to nectar.",
     "where_found": "Europe, Mediterranean"
   },
   {
@@ -548,7 +549,7 @@
     "name": "windflower",
     "scientific_name": "Anemone coronaria",
     "genus": "Anemone",
-    "fun_fact": "Mythological ties to Aphrodite’s tears.",
+    "fun_fact": "Ancient Romans wore anemones as talismans to prevent fever, and Egyptian physicians used them to treat gout and rheumatism over 2,000 years ago.",
     "where_found": "Mediterranean region"
   },
   {
@@ -556,7 +557,7 @@
     "name": "tree poppy",
     "scientific_name": "Dendromecon rigida",
     "genus": "Dendromecon",
-    "fun_fact": "Woody shrub with bright yellow blooms.",
+    "fun_fact": "One of the few truly woody members of the poppy family, it can survive wildfires and actually benefits from them, regenerating rapidly from underground burls after burns.",
     "where_found": "California, Baja California"
   },
   {
@@ -564,7 +565,7 @@
     "name": "gazania",
     "scientific_name": "Gazania rigens",
     "genus": "Gazania",
-    "fun_fact": "Flowers close at night and on cloudy days.",
+    "fun_fact": "Gazania petals contain specialized cells that act as tiny lenses, focusing sunlight to raise the flower's temperature by up to 10°C to attract cold-blooded insect pollinators.",
     "where_found": "Southern Africa"
   },
   {
@@ -572,7 +573,7 @@
     "name": "azalea",
     "scientific_name": "Rhododendron spp.",
     "genus": "Rhododendron",
-    "fun_fact": "All parts are highly toxic to humans and pets.",
+    "fun_fact": "Ancient Chinese writings described 'mad honey' made from azalea nectar that caused hallucinations; this honey was used as a biological weapon in 401 BCE against invading troops.",
     "where_found": "Asia, North America"
   },
   {
@@ -580,15 +581,15 @@
     "name": "water lily",
     "scientific_name": "Nymphaea spp.",
     "genus": "Nymphaea",
-    "fun_fact": "Symbolizes purity in Buddhism and Hinduism.",
+    "fun_fact": "The giant Amazon water lily (Victoria amazonica) can support the weight of a small child on its floating leaves, which can grow up to 3 meters in diameter with spiny undersides.",
     "where_found": "Global freshwater habitats"
   },
   {
     "id": 73,
     "name": "rose",
-    "scientific_name": "Rosa spp.",
+    "scientific_name": "Rosa rubiginosa.",
     "genus": "Rosa",
-    "fun_fact": "Over 300 species and thousands of cultivars.",
+    "fun_fact": "During World War II, roses were grown for their high vitamin C content (20 times higher than oranges), and rosehips were used to prevent scurvy when citrus fruits were scarce.",
     "where_found": "Worldwide, temperate regions"
   },
   {
@@ -596,7 +597,7 @@
     "name": "thorn apple",
     "scientific_name": "Datura stramonium",
     "genus": "Datura",
-    "fun_fact": "Contains hallucinogenic alkaloids.",
+    "fun_fact": "Before modern anesthesia, surgeons used Datura to sedate patients; it was also used by the Thuggee cult in India to drug victims before ritual murder, giving us the word 'thug.'",
     "where_found": "Americas, naturalized globally"
   },
   {
@@ -604,7 +605,7 @@
     "name": "morning glory",
     "scientific_name": "Ipomoea purpurea",
     "genus": "Ipomoea",
-    "fun_fact": "Flowers open at dawn and close by afternoon.",
+    "fun_fact": "The seeds contain LSA, a cousin of LSD, and were used in ancient Aztec rituals; the Aztec word for the plant 'tlitliltzin' translates to 'the black one's enchantment.'",
     "where_found": "Tropical Americas"
   },
   {
@@ -612,7 +613,7 @@
     "name": "passion flower",
     "scientific_name": "Passiflora incarnata",
     "genus": "Passiflora",
-    "fun_fact": "Complex structure symbolizes Christ’s crucifixion.",
+    "fun_fact": "Evolved with Heliconius butterflies in an evolutionary arms race, constantly developing new compounds to deter egg-laying, while the butterflies evolve to overcome them.",
     "where_found": "Americas, Asia, Australia"
   },
   {
@@ -620,7 +621,7 @@
     "name": "lotus",
     "scientific_name": "Nelumbo nucifera",
     "genus": "Nelumbo",
-    "fun_fact": "Seeds can remain viable for over 1,000 years.",
+    "fun_fact": "Lotus flowers maintain a constant temperature of 86-95°F regardless of air temperature, and scientists have revived 1,300-year-old lotus seeds found in a dried lakebed in China.",
     "where_found": "Asia, Australia"
   },
   {
@@ -628,7 +629,7 @@
     "name": "toad lily",
     "scientific_name": "Tricyrtis hirta",
     "genus": "Tricyrtis",
-    "fun_fact": "Speckled flowers resemble amphibian skin.",
+    "fun_fact": "One of the few flowers that produce nectar rich in glycerol, a natural antifreeze that allows it to bloom well into autumn when most flowers have stopped flowering.",
     "where_found": "Japan, Himalayas"
   },
   {
@@ -636,7 +637,7 @@
     "name": "anthurium",
     "scientific_name": "Anthurium andraeanum",
     "genus": "Anthurium",
-    "fun_fact": "Waxy red spathe is often mistaken for a flower.",
+    "fun_fact": "Produces heat during flowering, raising its temperature by up to 15°C above ambient to volatilize aromatic compounds that attract pollinators in dense rainforests.",
     "where_found": "Colombia, Ecuador"
   },
   {
@@ -644,7 +645,7 @@
     "name": "frangipani",
     "scientific_name": "Plumeria rubra",
     "genus": "Plumeria",
-    "fun_fact": "Used in Hawaiian leis and Hindu rituals.",
+    "fun_fact": "Named after a 16th-century Italian marquis who created a plumeria-scented perfume, and the milky latex was once used to treat warts, skin inflammation, and even leprosy.",
     "where_found": "Central America, Caribbean"
   },
   {
@@ -652,7 +653,7 @@
     "name": "clematis",
     "scientific_name": "Clematis spp.",
     "genus": "Clematis",
-    "fun_fact": "Climbs using twisting leaf stalks.",
+    "fun_fact": "Medieval herbalists called it 'traveler's joy' because its fluffy seedheads were stuffed into pillows to combat fatigue, while the name 'virgin's bower' came from its use in bridal wreaths.",
     "where_found": "Global temperate regions"
   },
   {
@@ -660,7 +661,7 @@
     "name": "hibiscus",
     "scientific_name": "Hibiscus rosa-sinensis",
     "genus": "Hibiscus",
-    "fun_fact": "National flower of South Korea and Malaysia.",
+    "fun_fact": "NASA studies identified hibiscus as one of the most effective plants for removing indoor air pollutants, and its flowers can change color throughout the day due to pH changes.",
     "where_found": "Tropical Asia, Pacific Islands"
   },
   {
@@ -668,7 +669,7 @@
     "name": "columbine",
     "scientific_name": "Aquilegia vulgaris",
     "genus": "Aquilegia",
-    "fun_fact": "Spurred petals attract hummingbirds.",
+    "fun_fact": "The nectar spurs evolved in precise lengths to match the tongues of specific moth pollinators, creating an evolutionary lock-and-key system that happened at astonishing speed.",
     "where_found": "Northern Hemisphere"
   },
   {
@@ -676,7 +677,7 @@
     "name": "desert-rose",
     "scientific_name": "Adenium obesum",
     "genus": "Adenium",
-    "fun_fact": "Caustic sap used to poison arrows in Africa.",
+    "fun_fact": "Possesses a fat, water-storing trunk (caudex) that can live for centuries; ancient specimens are prized by collectors and can be worth thousands of dollars.",
     "where_found": "Sahel region, East Africa"
   },
   {
@@ -684,7 +685,7 @@
     "name": "tree mallow",
     "scientific_name": "Lavatera spp.",
     "genus": "Lavatera",
-    "fun_fact": "Fast-growing shrub with hollyhock-like blooms.",
+    "fun_fact": "Contains mucilage that was used historically as an emergency sea survival food; sailors would chew the roots to prevent thirst when drinking water was scarce.",
     "where_found": "Mediterranean, Australia"
   },
   {
@@ -692,7 +693,7 @@
     "name": "magnolia",
     "scientific_name": "Magnolia grandiflora",
     "genus": "Magnolia",
-    "fun_fact": "Fossil records date back 20 million years.",
+    "fun_fact": "Evolved before bees existed and developed flowers to encourage pollination by beetles instead; their carpels are tough to protect against damage from beetle mandibles.",
     "where_found": "Southeastern United States"
   },
   {
@@ -700,7 +701,7 @@
     "name": "cyclamen",
     "scientific_name": "Cyclamen persicum",
     "genus": "Cyclamen",
-    "fun_fact": "Tubers can survive drought for months.",
+    "fun_fact": "Has a unique 'ballistic seed dispersal' system where the seed stalk coils like a spring after pollination, pulling the seed pod downward then catapulting seeds up to 3 meters.",
     "where_found": "Mediterranean, Middle East"
   },
   {
@@ -708,7 +709,7 @@
     "name": "watercress",
     "scientific_name": "Nasturtium officinale",
     "genus": "Nasturtium",
-    "fun_fact": "One of the oldest known leafy vegetables.",
+    "fun_fact": "Roman emperors ate it to help make bold decisions, and it was so important to 16th-century diet that street vendors would cry 'Fresh water-cresses!' at dawn each day.",
     "where_found": "Europe, Asia, streams worldwide"
   },
   {
@@ -716,7 +717,7 @@
     "name": "canna lily",
     "scientific_name": "Canna indica",
     "genus": "Canna",
-    "fun_fact": "Seeds were used as shotgun pellets in the past.",
+    "fun_fact": "Seeds are so hard that indigenous peoples used them as shotgun pellets and prayer beads; they remain viable after floating in ocean currents for years.",
     "where_found": "Tropical Americas"
   },
   {
@@ -724,7 +725,7 @@
     "name": "hippeastrum",
     "scientific_name": "Hippeastrum spp.",
     "genus": "Hippeastrum",
-    "fun_fact": "Often mislabeled as 'amaryllis.'",
+    "fun_fact": "Contains lycorine, a compound being studied for cancer treatment; in WWII, the bulbs were eaten during the Dutch famine despite their toxicity.",
     "where_found": "South America"
   },
   {
@@ -732,7 +733,7 @@
     "name": "bee balm",
     "scientific_name": "Monarda didyma",
     "genus": "Monarda",
-    "fun_fact": "Used to make Oswego tea by Native Americans.",
+    "fun_fact": "After the Boston Tea Party, colonists brewed 'Oswego tea' from bee balm as a patriotic alternative to British tea, dubbing it 'Liberty Tea' during the American Revolution.",
     "where_found": "Eastern North America"
   },
   {
@@ -740,7 +741,7 @@
     "name": "ball moss",
     "scientific_name": "Tillandsia recurvata",
     "genus": "Tillandsia",
-    "fun_fact": "Not a moss—it’s an air plant!",
+    "fun_fact": "Absorbs water and nutrients entirely through specialized scale-like structures called trichomes, and can survive complete desiccation for months then revive within hours of rainfall.",
     "where_found": "Americas, subtropical regions"
   },
   {
@@ -748,7 +749,7 @@
     "name": "foxglove",
     "scientific_name": "Digitalis purpurea",
     "genus": "Digitalis",
-    "fun_fact": "Source of heart medication digoxin.",
+    "fun_fact": "In 1785, Dr. William Withering published the first scientific study of a plant medicine, showing foxglove could treat dropsy (heart failure), saving countless lives through digoxin.",
     "where_found": "Europe, naturalized in Americas"
   },
   {
@@ -756,7 +757,7 @@
     "name": "bougainvillea",
     "scientific_name": "Bougainvillea spp.",
     "genus": "Bougainvillea",
-    "fun_fact": "Vibrant 'flowers' are actually colored bracts.",
+    "fun_fact": "Named after French navigator Louis Antoine de Bougainville, who found it in Brazil in 1768; NASA studies show it's exceptional at removing formaldehyde from indoor air.",
     "where_found": "South America, tropical regions"
   },
   {
@@ -764,7 +765,7 @@
     "name": "camellia",
     "scientific_name": "Camellia japonica",
     "genus": "Camellia",
-    "fun_fact": "Leaves used to make traditional tea.",
+    "fun_fact": "The camellia's perfect symmetry made it a symbol of mathematical perfection to 17th-century Jesuits in Asia; the Portuguese spread it to Europe as the 'Japanese rose.'",
     "where_found": "East Asia (China, Japan)"
   },
   {
@@ -772,7 +773,7 @@
     "name": "mallow",
     "scientific_name": "Malva sylvestris",
     "genus": "Malva",
-    "fun_fact": "Leaves and flowers are edible.",
+    "fun_fact": "Ancient Egyptian graves contained mallow wreaths, and it was the original marshmallow ingredient—roots were whipped with honey to create a throat-soothing confection.",
     "where_found": "Europe, Asia, North Africa"
   },
   {
@@ -780,7 +781,7 @@
     "name": "mexican petunia",
     "scientific_name": "Ruellia simplex",
     "genus": "Ruellia",
-    "fun_fact": "Invasive in Florida wetlands.",
+    "fun_fact": "Produces explosive seed pods that can launch seeds up to 10 feet away with an audible 'pop,' and a single plant can produce over 250,000 seeds annually.",
     "where_found": "Mexico, Caribbean"
   },
   {
@@ -788,7 +789,7 @@
     "name": "bromelia",
     "scientific_name": "Bromelia spp.",
     "genus": "Bromelia",
-    "fun_fact": "Pineapple is a member of this genus.",
+    "fun_fact": "Creates its own ecosystem—the water-collecting leaf rosettes host entire miniature worlds of organisms including frogs, insects, and even crabs in coastal regions.",
     "where_found": "Tropical Americas"
   },
   {
@@ -796,7 +797,7 @@
     "name": "blanket flower",
     "scientific_name": "Gaillardia pulchella",
     "genus": "Gaillardia",
-    "fun_fact": "Named for its resemblance to Indigenous blankets.",
+    "fun_fact": "One of the few plants that thrived at Ground Zero after 9/11, and NASA has studied it for potential use in space habitats due to its radiation resistance.",
     "where_found": "North and South America"
   },
   {
@@ -804,7 +805,7 @@
     "name": "trumpet creeper",
     "scientific_name": "Campsis radicans",
     "genus": "Campsis",
-    "fun_fact": "Hummingbirds are its primary pollinators.",
+    "fun_fact": "Aerial rootlets produce a glue-like substance so strong that it can damage mortar and stonework; it was once studied as a potential natural adhesive for military applications.",
     "where_found": "Eastern United States"
   },
   {
@@ -812,7 +813,7 @@
     "name": "blackberry lily",
     "scientific_name": "Iris domestica",
     "genus": "Iris",
-    "fun_fact": "Seeds resemble blackberries but are toxic.",
+    "fun_fact": "Its name has changed three times in recent decades as DNA studies revealed unexpected relationships—it was moved from Belamcanda to Iris in 2005, upending centuries of classification.",
     "where_found": "East Asia, naturalized in North America"
   }
 ]
