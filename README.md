@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+
 
 A simple Streamlit app template for you to modify!
 
@@ -11,8 +11,8 @@ A simple Streamlit app template for you to modify!
    ```
    $ pip install -r requirements.txt
    ```
-
-2. Run the app
+2. Install all required  files including model.pth in public release
+3. Run the app
 
    ```
    $ streamlit run app.py
