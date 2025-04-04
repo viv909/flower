@@ -7,4 +7,5 @@ jsonschema
 numpy
 pytest
 matplotlib
-sckit-learn
+scikit-learn
+
