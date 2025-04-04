@@ -36,9 +36,11 @@ An AI-powered web application that identifies flowers from uploaded images and p
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
-▶️ Run the App
-streamlit run app1.py
-🧪 Running Tests
+-▶️ Run the App
+  ```bash
+  streamlit run app1.py
+-🧪 Running Tests
+```bash
 python -m unittest test_app.py
 🔄 CI/CD Workflow
 
