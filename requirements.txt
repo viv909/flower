@@ -6,3 +6,5 @@ numpy
 jsonschema
 numpy
 pytest
+matplotlib
+sckit-learn
