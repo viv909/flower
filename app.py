@@ -9,7 +9,7 @@ from load import load_model  # Your existing load.py
 # ---------------------------
 # Set page configuration (must be first)
 # ---------------------------
-s.set_page_config(
+st.set_page_config(
     page_title="Flower Identifier", 
     layout="wide",
     initial_sidebar_state="collapsed"
