@@ -24,7 +24,7 @@ An AI-powered web application that identifies flowers from uploaded images and p
 - **CI/CD**: GitHub Actions
 - **Testing**: `unittest` (Python standard library)
 - **Data Storage**: JSON for flower data and plain text for feedback logs
-- **Large File Handling**: Git LFS for `model.pth`
+- **model.pth**:https://huggingface.co/AventIQ-AI/Resnet-50-flower-classification
 
 ---
 
