@@ -36,16 +36,8 @@ An AI-powered web application that identifies flowers from uploaded images and p
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
--▶️ Run the App
+-▶️ Run the App and 🧪 Running Tests
   ```bash
   streamlit run app1.py
--🧪 Running Tests
-```bash
-python -m unittest test_app.py
-🔄 CI/CD Workflow
+  python -m unittest test_app.py
 
-    Automated testing runs on each push to main or on pull requests.
-
-    Model file is versioned separately via GitHub Releases using Git LFS.
-
-    Workflow defined in .github/workflows/ci.yml
